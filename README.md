@@ -1,4 +1,4 @@
-# PathFinder
+# Path Finder
 
 ## Description
 
